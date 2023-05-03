@@ -1,7 +1,9 @@
 # 3D-viewer-opengl-Python-Version
 
 This is a 3D viewer application that uses OpenGL and Python to render 3D models and textures. 
+Additionally, lighting effects can be added to the model to enhance the viewing experience.
 It also supports hand and face recognition to control the camera and zoom.
+
 
 ## Dependencies
 
